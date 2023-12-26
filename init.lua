@@ -86,6 +86,6 @@ require("lspconfig").rust_analyzer.setup({})
 
 require("lualine").setup({
     options = {
-        theme = 'auto'
+        theme = "auto"
     }
 })
